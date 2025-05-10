@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="805" height="800">
-    <rect width="805" height="800" x="0" y="0" fill="#FFFFFF" id="background"/>
     <g id="viz">
         <g transform="translate(0,0)">
             <g transform="translate(50,20)">
