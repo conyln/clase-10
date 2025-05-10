@@ -1,8 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Fredoka:wght@300..700&family=M+PLUS+Rounded+1c&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
 
-root 
-
-body {
+root body {
     color: Black;
     background: Pink;
     font-family: "Atkinson Hyperlegible", sans-serif;
