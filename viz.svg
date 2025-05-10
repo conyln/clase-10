@@ -1,195 +1,239 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<svg xmlns="http://www.w3.org/2000/svg" width="805" height="800">
+    <rect width="805" height="800" x="0" y="0" fill="#FFFFFF" id="background"/>
     <g id="viz">
         <g transform="translate(0,0)">
             <g transform="translate(50,20)">
-                <g class="bars">
-                    <rect id="undefined - primera" x="10.84742767564487" y="336" height="224" width="6.161669957993173" fill="rgb(232, 94, 73)" />
-                    <rect id="undefined - segunda" x="17.989858642616237" y="336" height="224" width="6.161669957993173" fill="rgb(251, 248, 176)" />
-                    <rect id="undefined - tercera" x="25.132289609587605" y="336" height="224" width="6.161669957993173" fill="rgb(94, 79, 162)" />
-                    <rect id="undefined - cuarta" x="32.27472057655898" y="336" height="224" width="6.161669957993173" fill="rgb(158, 1, 66)" />
-                    <rect id="undefined - quinta" x="39.41715154353034" y="336" height="224" width="6.161669957993173" fill="rgb(253, 190, 112)" />
-                    <rect id="undefined - sexta" x="46.55958251050171" y="336" height="224" width="6.161669957993173" fill="rgb(86, 173, 174)" />
-                    <rect id="undefined - septima" x="53.70201347747307" y="420" height="140" width="6.161669957993173" fill="rgb(190, 229, 160)" />
-                    <rect id="undefined - primera" x="71.6918721200893" y="280" height="280" width="6.161669957993173" fill="rgb(232, 94, 73)" />
-                    <rect id="undefined - segunda" x="78.83430308706068" y="336" height="224" width="6.161669957993173" fill="rgb(251, 248, 176)" />
-                    <rect id="undefined - tercera" x="85.97673405403204" y="336" height="224" width="6.161669957993173" fill="rgb(94, 79, 162)" />
-                    <rect id="undefined - cuarta" x="93.11916502100341" y="280" height="280" width="6.161669957993173" fill="rgb(158, 1, 66)" />
-                    <rect id="undefined - quinta" x="100.26159598797477" y="336" height="224" width="6.161669957993173" fill="rgb(253, 190, 112)" />
-                    <rect id="undefined - sexta" x="107.40402695494615" y="336" height="224" width="6.161669957993173" fill="rgb(86, 173, 174)" />
-                    <rect id="undefined - septima" x="114.54645792191751" y="420" height="140" width="6.161669957993173" fill="rgb(190, 229, 160)" />
-                    <rect id="undefined - primera" x="132.53631656453373" y="392" height="168" width="6.161669957993173" fill="rgb(232, 94, 73)" />
-                    <rect id="undefined - segunda" x="139.6787475315051" y="336" height="224" width="6.161669957993173" fill="rgb(251, 248, 176)" />
-                    <rect id="undefined - tercera" x="146.82117849847648" y="336" height="224" width="6.161669957993173" fill="rgb(94, 79, 162)" />
-                    <rect id="undefined - cuarta" x="153.96360946544783" y="560" height="0" width="6.161669957993173" fill="rgb(158, 1, 66)" />
-                    <rect id="undefined - quinta" x="161.1060404324192" y="336" height="224" width="6.161669957993173" fill="rgb(253, 190, 112)" />
-                    <rect id="undefined - sexta" x="168.24847139939058" y="336" height="224" width="6.161669957993173" fill="rgb(86, 173, 174)" />
-                    <rect id="undefined - septima" x="175.39090236636196" y="420" height="140" width="6.161669957993173" fill="rgb(190, 229, 160)" />
-                    <rect id="undefined - primera" x="193.3807610089782" y="336" height="224" width="6.161669957993173" fill="rgb(232, 94, 73)" />
-                    <rect id="undefined - segunda" x="200.52319197594957" y="336" height="224" width="6.161669957993173" fill="rgb(251, 248, 176)" />
-                    <rect id="undefined - tercera" x="207.66562294292095" y="280" height="280" width="6.161669957993173" fill="rgb(94, 79, 162)" />
-                    <rect id="undefined - cuarta" x="214.8080539098923" y="280" height="280" width="6.161669957993173" fill="rgb(158, 1, 66)" />
-                    <rect id="undefined - quinta" x="221.95048487686367" y="336" height="224" width="6.161669957993173" fill="rgb(253, 190, 112)" />
-                    <rect id="undefined - sexta" x="229.09291584383504" y="336" height="224" width="6.161669957993173" fill="rgb(86, 173, 174)" />
-                    <rect id="undefined - septima" x="236.2353468108064" y="420" height="140" width="6.161669957993173" fill="rgb(190, 229, 160)" />
-                    <rect id="undefined - primera" x="254.22520545342263" y="476" height="84" width="6.161669957993173" fill="rgb(232, 94, 73)" />
-                    <rect id="undefined - segunda" x="261.367636420394" y="336" height="224" width="6.161669957993173" fill="rgb(251, 248, 176)" />
-                    <rect id="undefined - tercera" x="268.5100673873654" y="476" height="84" width="6.161669957993173" fill="rgb(94, 79, 162)" />
-                    <rect id="undefined - cuarta" x="275.65249835433673" y="336" height="224" width="6.161669957993173" fill="rgb(158, 1, 66)" />
-                    <rect id="undefined - quinta" x="282.79492932130813" y="336" height="224" width="6.161669957993173" fill="rgb(253, 190, 112)" />
-                    <rect id="undefined - sexta" x="289.9373602882795" y="560" height="0" width="6.161669957993173" fill="rgb(86, 173, 174)" />
-                    <rect id="undefined - septima" x="297.0797912552508" y="560" height="0" width="6.161669957993173" fill="rgb(190, 229, 160)" />
-                    <rect id="undefined - primera" x="315.0696498978671" y="476" height="84" width="6.161669957993173" fill="rgb(232, 94, 73)" />
-                    <rect id="undefined - segunda" x="322.21208086483847" y="336" height="224" width="6.161669957993173" fill="rgb(251, 248, 176)" />
-                    <rect id="undefined - tercera" x="329.3545118318098" y="336" height="224" width="6.161669957993173" fill="rgb(94, 79, 162)" />
-                    <rect id="undefined - cuarta" x="336.4969427987812" y="280" height="280" width="6.161669957993173" fill="rgb(158, 1, 66)" />
-                    <rect id="undefined - quinta" x="343.63937376575257" y="336" height="224" width="6.161669957993173" fill="rgb(253, 190, 112)" />
-                    <rect id="undefined - sexta" x="350.7818047327239" y="336" height="224" width="6.161669957993173" fill="rgb(86, 173, 174)" />
-                    <rect id="undefined - septima" x="357.9242356996953" y="420" height="140" width="6.161669957993173" fill="rgb(190, 229, 160)" />
-                    <rect id="undefined - primera" x="375.91409434231156" y="420" height="140" width="6.161669957993173" fill="rgb(232, 94, 73)" />
-                    <rect id="undefined - segunda" x="383.0565253092829" y="280" height="280" width="6.161669957993173" fill="rgb(251, 248, 176)" />
-                    <rect id="undefined - tercera" x="390.19895627625425" y="280" height="280" width="6.161669957993173" fill="rgb(94, 79, 162)" />
-                    <rect id="undefined - cuarta" x="397.34138724322565" y="280" height="280" width="6.161669957993173" fill="rgb(158, 1, 66)" />
-                    <rect id="undefined - quinta" x="404.483818210197" y="336" height="224" width="6.161669957993173" fill="rgb(253, 190, 112)" />
-                    <rect id="undefined - sexta" x="411.62624917716835" y="336" height="224" width="6.161669957993173" fill="rgb(86, 173, 174)" />
-                    <rect id="undefined - septima" x="418.76868014413975" y="420" height="140" width="6.161669957993173" fill="rgb(190, 229, 160)" />
-                    <rect id="undefined - primera" x="436.758538786756" y="560" height="0" width="6.161669957993173" fill="rgb(232, 94, 73)" />
-                    <rect id="undefined - segunda" x="443.90096975372734" y="336" height="224" width="6.161669957993173" fill="rgb(251, 248, 176)" />
-                    <rect id="undefined - tercera" x="451.0434007206987" y="336" height="224" width="6.161669957993173" fill="rgb(94, 79, 162)" />
-                    <rect id="undefined - cuarta" x="458.1858316876701" y="0" height="560" width="6.161669957993173" fill="rgb(158, 1, 66)" />
-                    <rect id="undefined - quinta" x="465.32826265464143" y="336" height="224" width="6.161669957993173" fill="rgb(253, 190, 112)" />
-                    <rect id="undefined - sexta" x="472.4706936216128" y="336" height="224" width="6.161669957993173" fill="rgb(86, 173, 174)" />
-                    <rect id="undefined - septima" x="479.6131245885842" y="336" height="224" width="6.161669957993173" fill="rgb(190, 229, 160)" />
-                    <rect id="undefined - primera" x="497.6029832312004" y="476" height="84" width="6.161669957993173" fill="rgb(232, 94, 73)" />
-                    <rect id="undefined - segunda" x="504.7454141981718" y="336" height="224" width="6.161669957993173" fill="rgb(251, 248, 176)" />
-                    <rect id="undefined - tercera" x="511.8878451651431" y="336" height="224" width="6.161669957993173" fill="rgb(94, 79, 162)" />
-                    <rect id="undefined - cuarta" x="519.0302761321145" y="336" height="224" width="6.161669957993173" fill="rgb(158, 1, 66)" />
-                    <rect id="undefined - quinta" x="526.1727070990859" y="336" height="224" width="6.161669957993173" fill="rgb(253, 190, 112)" />
-                    <rect id="undefined - sexta" x="533.3151380660572" y="336" height="224" width="6.161669957993173" fill="rgb(86, 173, 174)" />
-                    <rect id="undefined - septima" x="540.4575690330286" y="420" height="140" width="6.161669957993173" fill="rgb(190, 229, 160)" />
-                    <rect id="undefined - primera" x="558.4474276756449" y="476" height="84" width="6.161669957993173" fill="rgb(232, 94, 73)" />
-                    <rect id="undefined - segunda" x="565.5898586426163" y="336" height="224" width="6.161669957993173" fill="rgb(251, 248, 176)" />
-                    <rect id="undefined - tercera" x="572.7322896095876" y="336" height="224" width="6.161669957993173" fill="rgb(94, 79, 162)" />
-                    <rect id="undefined - cuarta" x="579.874720576559" y="560" height="0" width="6.161669957993173" fill="rgb(158, 1, 66)" />
-                    <rect id="undefined - quinta" x="587.0171515435304" y="336" height="224" width="6.161669957993173" fill="rgb(253, 190, 112)" />
-                    <rect id="undefined - sexta" x="594.1595825105018" y="336" height="224" width="6.161669957993173" fill="rgb(86, 173, 174)" />
-                    <rect id="undefined - septima" x="601.3020134774731" y="560" height="0" width="6.161669957993173" fill="rgb(190, 229, 160)" />
-                    <rect id="undefined - primera" x="619.2918721200894" y="392" height="168" width="6.161669957993173" fill="rgb(232, 94, 73)" />
-                    <rect id="undefined - segunda" x="626.4343030870607" y="336" height="224" width="6.161669957993173" fill="rgb(251, 248, 176)" />
-                    <rect id="undefined - tercera" x="633.576734054032" y="336" height="224" width="6.161669957993173" fill="rgb(94, 79, 162)" />
-                    <rect id="undefined - cuarta" x="640.7191650210034" y="336" height="224" width="6.161669957993173" fill="rgb(158, 1, 66)" />
-                    <rect id="undefined - quinta" x="647.8615959879749" y="336" height="224" width="6.161669957993173" fill="rgb(253, 190, 112)" />
-                    <rect id="undefined - sexta" x="655.0040269549462" y="336" height="224" width="6.161669957993173" fill="rgb(86, 173, 174)" />
-                    <rect id="undefined - septima" x="662.1464579219175" y="476" height="84" width="6.161669957993173" fill="rgb(190, 229, 160)" />
-                    <rect id="undefined - primera" x="680.1363165645338" y="336" height="224" width="6.161669957993173" fill="rgb(232, 94, 73)" />
-                    <rect id="undefined - segunda" x="687.2787475315051" y="336" height="224" width="6.161669957993173" fill="rgb(251, 248, 176)" />
-                    <rect id="undefined - tercera" x="694.4211784984765" y="336" height="224" width="6.161669957993173" fill="rgb(94, 79, 162)" />
-                    <rect id="undefined - cuarta" x="701.5636094654478" y="280" height="280" width="6.161669957993173" fill="rgb(158, 1, 66)" />
-                    <rect id="undefined - quinta" x="708.7060404324193" y="336" height="224" width="6.161669957993173" fill="rgb(253, 190, 112)" />
-                    <rect id="undefined - sexta" x="715.8484713993906" y="336" height="224" width="6.161669957993173" fill="rgb(86, 173, 174)" />
-                    <rect id="undefined - septima" x="722.990902366362" y="420" height="140" width="6.161669957993173" fill="rgb(190, 229, 160)" />
+                <g id="primera" fill="rgb(251, 163, 94)">
+                    <rect x="6.934840425531888" y="431.57142857142856" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="68.4402703900709" y="416.42857142857144" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="129.94570035460993" y="446.7142857142857" width="54.570589539007095" height="45.428571428571445"/>
+                    <rect x="191.45113031914892" y="431.57142857142856" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="252.95656028368793" y="507.28571428571433" width="54.570589539007095" height="22.714285714285666"/>
+                    <rect x="314.4619902482269" y="469.4285714285714" width="54.570589539007095" height="22.714285714285666"/>
+                    <rect x="375.96742021276594" y="454.28571428571433" width="54.570589539007095" height="37.85714285714283"/>
+                    <rect x="437.47285017730496" y="469.4285714285714" width="54.570589539007095" height="0"/>
+                    <rect x="498.978280141844" y="469.4285714285714" width="54.570589539007095" height="22.714285714285666"/>
+                    <rect x="560.483710106383" y="507.28571428571433" width="54.570589539007095" height="22.714285714285666"/>
+                    <rect x="621.989140070922" y="461.8571428571429" width="54.570589539007095" height="45.428571428571445"/>
+                    <rect x="683.494570035461" y="431.57142857142856" width="54.570589539007095" height="60.57142857142861"/>
                 </g>
-                <g id="xAxis" transform="translate(0,560)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
-                    <path class="domain" stroke="currentColor" d="M0,0H740" />
-                    <g class="tick" opacity="1" transform="translate(35.35555555555556,0)">
-                        <line stroke="currentColor" y2="6" />
-                        <text fill="currentColor" y="9" dy="0.71em">BROWNE PRIETO, SOFÍA</text>
+                <g id="segunda" fill="rgb(235, 247, 166)">
+                    <rect x="6.934840425531888" y="189.28571428571425" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="68.4402703900709" y="174.14285714285717" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="129.94570035460993" y="204.42857142857147" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="191.45113031914892" y="174.1428571428571" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="252.95656028368793" y="363.42857142857144" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="314.4619902482269" y="227.14285714285717" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="375.96742021276594" y="181.71428571428572" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="437.47285017730496" y="227.14285714285717" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="498.978280141844" y="227.14285714285717" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="560.483710106383" y="265" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="621.989140070922" y="219.5714285714286" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="683.494570035461" y="189.28571428571425" width="54.570589539007095" height="60.571428571428555"/>
+                </g>
+                <g id="tercera" fill="rgb(94, 79, 162)">
+                    <rect x="6.934840425531888" y="310.4285714285714" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="68.4402703900709" y="295.2857142857143" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="129.94570035460993" y="325.5714285714286" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="191.45113031914892" y="295.2857142857143" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="252.95656028368793" y="484.57142857142856" width="54.570589539007095" height="22.714285714285666"/>
+                    <rect x="314.4619902482269" y="348.2857142857142" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="375.96742021276594" y="318.00000000000006" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="437.47285017730496" y="348.2857142857142" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="498.978280141844" y="348.2857142857142" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="560.483710106383" y="386.1428571428571" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="621.989140070922" y="340.71428571428567" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="683.494570035461" y="310.4285714285714" width="54.570589539007095" height="60.57142857142861"/>
+                </g>
+                <g id="cuarta" fill="rgb(225, 82, 74)">
+                    <rect x="6.934840425531888" y="128.71428571428572" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="68.4402703900709" y="98.42857142857149" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="129.94570035460993" y="204.42857142857147" width="54.570589539007095" height="0"/>
+                    <rect x="191.45113031914892" y="98.42857142857143" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="252.95656028368793" y="302.85714285714283" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="314.4619902482269" y="151.42857142857142" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="375.96742021276594" y="106.00000000000003" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="437.47285017730496" y="75.71428571428574" width="54.570589539007095" height="151.42857142857144"/>
+                    <rect x="498.978280141844" y="166.57142857142856" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="560.483710106383" y="265" width="54.570589539007095" height="0"/>
+                    <rect x="621.989140070922" y="159.00000000000003" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="683.494570035461" y="113.57142857142858" width="54.570589539007095" height="75.71428571428567"/>
+                </g>
+                <g id="quinta" fill="rgb(254, 232, 154)">
+                    <rect x="6.934840425531888" y="249.85714285714286" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="68.4402703900709" y="234.71428571428575" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="129.94570035460993" y="265" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="191.45113031914892" y="234.7142857142857" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="252.95656028368793" y="424" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="314.4619902482269" y="287.71428571428567" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="375.96742021276594" y="257.42857142857144" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="437.47285017730496" y="287.71428571428567" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="498.978280141844" y="287.71428571428567" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="560.483710106383" y="325.5714285714286" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="621.989140070922" y="280.14285714285717" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="683.494570035461" y="249.85714285714286" width="54.570589539007095" height="60.571428571428555"/>
+                </g>
+                <g id="sexta" fill="rgb(75, 160, 177)">
+                    <rect x="6.934840425531888" y="371" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="68.4402703900709" y="355.8571428571429" width="54.570589539007095" height="60.571428571428555"/>
+                    <rect x="129.94570035460993" y="386.1428571428571" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="191.45113031914892" y="371" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="252.95656028368793" y="507.28571428571433" width="54.570589539007095" height="0"/>
+                    <rect x="314.4619902482269" y="408.85714285714283" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="375.96742021276594" y="393.7142857142857" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="437.47285017730496" y="408.85714285714283" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="498.978280141844" y="408.85714285714283" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="560.483710106383" y="446.7142857142857" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="621.989140070922" y="401.2857142857143" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="683.494570035461" y="371" width="54.570589539007095" height="60.57142857142861"/>
+                </g>
+                <g id="septima" fill="rgb(160, 217, 163)">
+                    <rect x="6.934840425531888" y="492.14285714285717" width="54.570589539007095" height="37.85714285714283"/>
+                    <rect x="68.4402703900709" y="492.14285714285717" width="54.570589539007095" height="37.85714285714283"/>
+                    <rect x="129.94570035460993" y="492.14285714285717" width="54.570589539007095" height="37.85714285714283"/>
+                    <rect x="191.45113031914892" y="492.14285714285717" width="54.570589539007095" height="37.85714285714283"/>
+                    <rect x="252.95656028368793" y="530" width="54.570589539007095" height="0"/>
+                    <rect x="314.4619902482269" y="492.14285714285717" width="54.570589539007095" height="37.85714285714283"/>
+                    <rect x="375.96742021276594" y="492.14285714285717" width="54.570589539007095" height="37.85714285714283"/>
+                    <rect x="437.47285017730496" y="469.4285714285714" width="54.570589539007095" height="60.57142857142861"/>
+                    <rect x="498.978280141844" y="492.14285714285717" width="54.570589539007095" height="37.85714285714283"/>
+                    <rect x="560.483710106383" y="530" width="54.570589539007095" height="0"/>
+                    <rect x="621.989140070922" y="507.28571428571433" width="54.570589539007095" height="22.714285714285666"/>
+                    <rect x="683.494570035461" y="492.14285714285717" width="54.570589539007095" height="37.85714285714283"/>
+                </g>
+                <g id="base" fill="rgb(158, 1, 66)">
+                    <rect x="6.934840425531888" y="52.999999999999986" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="68.4402703900709" y="22.71428571428575" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="129.94570035460993" y="128.71428571428572" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="191.45113031914892" y="22.714285714285694" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="252.95656028368793" y="227.14285714285717" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="314.4619902482269" y="75.71428571428574" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="375.96742021276594" y="30.285714285714295" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="437.47285017730496" y="0" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="498.978280141844" y="90.85714285714289" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="560.483710106383" y="189.28571428571425" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="621.989140070922" y="83.28571428571435" width="54.570589539007095" height="75.71428571428567"/>
+                    <rect x="683.494570035461" y="37.85714285714284" width="54.570589539007095" height="75.71428571428567"/>
+                </g>
+                <g id="xAxis" transform="translate(0,530)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
+                    <path class="domain" stroke="currentColor" d="M0.5,0.5H745.5"/>
+                    <g class="tick" opacity="1" transform="translate(34.22013519503544,0)">
+                        <line stroke="currentColor" y2="6"/>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">BROWNE PRIETO, SOFÍA</text>
                     </g>
-                    <g class="tick" opacity="1" transform="translate(96.19999999999999,0)">
-                        <line stroke="currentColor" y2="6" />
-                        <text fill="currentColor" y="9" dy="0.71em">CAMPAZZO FUENTEALBA, MAGDALENA</text>
+                    <g class="tick" opacity="1" transform="translate(95.72556515957446,0)">
+                        <line stroke="currentColor" y2="6"/>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">CAMPAZZO FUENTEALBA, MAGDALENA</text>
                     </g>
-                    <g class="tick" opacity="1" transform="translate(157.04444444444442,0)">
-                        <line stroke="currentColor" y2="6" />
-                        <text fill="currentColor" y="9" dy="0.71em">CORDERO BRUMMER, MARÍA JOSÉ</text>
+                    <g class="tick" opacity="1" transform="translate(157.23099512411346,0)">
+                        <line stroke="currentColor" y2="6"/>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">CORDERO BRUMMER, MARÍA JOSÉ</text>
                     </g>
-                    <g class="tick" opacity="1" transform="translate(217.88888888888889,0)">
-                        <line stroke="currentColor" y2="6" />
-                        <text fill="currentColor" y="9" dy="0.71em">CORTHORN PEDRASA, MAGDALENA</text>
+                    <g class="tick" opacity="1" transform="translate(218.73642508865245,0)">
+                        <line stroke="currentColor" y2="6"/>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">CORTHORN PEDRASA, MAGDALENA</text>
                     </g>
-                    <g class="tick" opacity="1" transform="translate(278.73333333333335,0)">
-                        <line stroke="currentColor" y2="6" />
-                        <text fill="currentColor" y="9" dy="0.71em">CUYATE MIMBELA, BRAYAN</text>
+                    <g class="tick" opacity="1" transform="translate(280.2418550531915,0)">
+                        <line stroke="currentColor" y2="6"/>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)"  >CUYATE MIMBELA, BRAYAN</text>
                     </g>
-                    <g class="tick" opacity="1" transform="translate(339.5777777777778,0)">
-                        <line stroke="currentColor" y2="6" />
-                        <text fill="currentColor" y="9" dy="0.71em">CVITANIC VERGARA, TOMISLAV</text>
+                    <g class="tick" opacity="1" transform="translate(341.74728501773046,0)">
+                        <line stroke="currentColor" y2="6"/>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">CVITANIC VERGARA, TOMISLAV</text>
                     </g>
-                    <g class="tick" opacity="1" transform="translate(400.4222222222222,0)">
-                        <line stroke="currentColor" y2="6" />
-                        <text fill="currentColor" y="9" dy="0.71em">FLORES HIDALGO, VALENTINA</text>
+                    <g class="tick" opacity="1" transform="translate(403.2527149822695,0)">
+                        <line stroke="currentColor" y2="6"/>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">FLORES HIDALGO, VALENTINA</text>
                     </g>
-                    <g class="tick" opacity="1" transform="translate(461.26666666666665,0)">
-                        <line stroke="currentColor" y2="6" />
-                        <text fill="currentColor" y="9" dy="0.71em">LAGOS NOVA, CONSTANZA</text>
+                    <g class="tick" opacity="1" transform="translate(464.7581449468085,0)">
+                        <line stroke="currentColor" y2="6"/>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">LAGOS NOVA, CONSTANZA</text>
                     </g>
-                    <g class="tick" opacity="1" transform="translate(522.1111111111111,0)">
-                        <line stroke="currentColor" y2="6" />
-                        <text fill="currentColor" y="9" dy="0.71em">NAVARRETE SANTIBÁÑEZ, SOFÍA</text>
+                    <g class="tick" opacity="1" transform="translate(526.2635749113475,0)">
+                        <line stroke="currentColor" y2="6"/>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">NAVARRETE SANTIBÁÑEZ, SOFÍA</text>
                     </g>
-                    <g class="tick" opacity="1" transform="translate(582.9555555555556,0)">
-                        <line stroke="currentColor" y2="6" />
-                        <text fill="currentColor" y="9" dy="0.71em">OLIVARES CANALES, DANIELA</text>
+                    <g class="tick" opacity="1" transform="translate(587.7690048758866,0)">
+                        <line stroke="currentColor" y2="6"/>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">OLIVARES CANALES, DANIELA</text>
                     </g>
-                    <g class="tick" opacity="1" transform="translate(643.8000000000001,0)">
-                        <line stroke="currentColor" y2="6" />
-                        <text fill="currentColor" y="9" dy="0.71em">OLIVOS LEIVA, MÓNICA</text>
+                    <g class="tick" opacity="1" transform="translate(649.2744348404256,0)">
+                        <line stroke="currentColor" y2="6"/>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">OLIVOS LEIVA, MÓNICA</text>
                     </g>
-                    <g class="tick" opacity="1" transform="translate(704.6444444444445,0)">
-                        <line stroke="currentColor" y2="6" />
-                        <text fill="currentColor" y="9" dy="0.71em">WURTH GONZÁLEZ, FRANCISCA</text>
+                    <g class="tick" opacity="1" transform="translate(710.7798648049646,0)">
+                        <line stroke="currentColor" y2="6"/>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">WURTH GONZÁLEZ, FRANCISCA</text>
                     </g>
                 </g>
                 <g id="yAxis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
-                    <path class="domain" stroke="currentColor" d="M0,560V0" />
-                    <g class="tick" opacity="1" transform="translate(0,560)">
-                        <line stroke="currentColor" x2="-6" />
+                    <path class="domain" stroke="currentColor" d="M0.5,530.5V0.5"/>
+                    <g class="tick" opacity="1" transform="translate(0,530.5)">
+                        <line stroke="currentColor" x2="-6"/>
                         <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                     </g>
-                    <g class="tick" opacity="1" transform="translate(0,504)">
-                        <line stroke="currentColor" x2="-6" />
-                        <text fill="currentColor" x="-9" dy="0.32em">0.2</text>
+                    <g class="tick" opacity="1" transform="translate(0,492.64285714285717)">
+                        <line stroke="currentColor" x2="-6"/>
+                        <text fill="currentColor" x="-9" dy="0.32em">0.5</text>
                     </g>
-                    <g class="tick" opacity="1" transform="translate(0,448)">
-                        <line stroke="currentColor" x2="-6" />
-                        <text fill="currentColor" x="-9" dy="0.32em">0.4</text>
-                    </g>
-                    <g class="tick" opacity="1" transform="translate(0,392)">
-                        <line stroke="currentColor" x2="-6" />
-                        <text fill="currentColor" x="-9" dy="0.32em">0.6</text>
-                    </g>
-                    <g class="tick" opacity="1" transform="translate(0,336)">
-                        <line stroke="currentColor" x2="-6" />
-                        <text fill="currentColor" x="-9" dy="0.32em">0.8</text>
-                    </g>
-                    <g class="tick" opacity="1" transform="translate(0,280)">
-                        <line stroke="currentColor" x2="-6" />
+                    <g class="tick" opacity="1" transform="translate(0,454.78571428571433)">
+                        <line stroke="currentColor" x2="-6"/>
                         <text fill="currentColor" x="-9" dy="0.32em">1.0</text>
                     </g>
-                    <g class="tick" opacity="1" transform="translate(0,224)">
-                        <line stroke="currentColor" x2="-6" />
-                        <text fill="currentColor" x="-9" dy="0.32em">1.2</text>
+                    <g class="tick" opacity="1" transform="translate(0,416.92857142857144)">
+                        <line stroke="currentColor" x2="-6"/>
+                        <text fill="currentColor" x="-9" dy="0.32em">1.5</text>
                     </g>
-                    <g class="tick" opacity="1" transform="translate(0,168.00000000000003)">
-                        <line stroke="currentColor" x2="-6" />
-                        <text fill="currentColor" x="-9" dy="0.32em">1.4</text>
-                    </g>
-                    <g class="tick" opacity="1" transform="translate(0,111.99999999999997)">
-                        <line stroke="currentColor" x2="-6" />
-                        <text fill="currentColor" x="-9" dy="0.32em">1.6</text>
-                    </g>
-                    <g class="tick" opacity="1" transform="translate(0,55.999999999999986)">
-                        <line stroke="currentColor" x2="-6" />
-                        <text fill="currentColor" x="-9" dy="0.32em">1.8</text>
-                    </g>
-                    <g class="tick" opacity="1" transform="translate(0,0)">
-                        <line stroke="currentColor" x2="-6" />
+                    <g class="tick" opacity="1" transform="translate(0,379.07142857142856)">
+                        <line stroke="currentColor" x2="-6"/>
                         <text fill="currentColor" x="-9" dy="0.32em">2.0</text>
                     </g>
+                    <g class="tick" opacity="1" transform="translate(0,341.21428571428567)">
+                        <line stroke="currentColor" x2="-6"/>
+                        <text fill="currentColor" x="-9" dy="0.32em">2.5</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,303.35714285714283)">
+                        <line stroke="currentColor" x2="-6"/>
+                        <text fill="currentColor" x="-9" dy="0.32em">3.0</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,265.5)">
+                        <line stroke="currentColor" x2="-6"/>
+                        <text fill="currentColor" x="-9" dy="0.32em">3.5</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,227.64285714285717)">
+                        <line stroke="currentColor" x2="-6"/>
+                        <text fill="currentColor" x="-9" dy="0.32em">4.0</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,189.78571428571425)">
+                        <line stroke="currentColor" x2="-6"/>
+                        <text fill="currentColor" x="-9" dy="0.32em">4.5</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,151.92857142857142)">
+                        <line stroke="currentColor" x2="-6"/>
+                        <text fill="currentColor" x="-9" dy="0.32em">5.0</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,114.07142857142858)">
+                        <line stroke="currentColor" x2="-6"/>
+                        <text fill="currentColor" x="-9" dy="0.32em">5.5</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,76.21428571428574)">
+                        <line stroke="currentColor" x2="-6"/>
+                        <text fill="currentColor" x="-9" dy="0.32em">6.0</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,38.35714285714284)">
+                        <line stroke="currentColor" x2="-6"/>
+                        <text fill="currentColor" x="-9" dy="0.32em">6.5</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,0.5)">
+                        <line stroke="currentColor" x2="-6"/>
+                        <text fill="currentColor" x="-9" dy="0.32em">7.0</text>
+                    </g>
                 </g>
-                <text y="556" x="740" text-anchor="end" style="font-family: Atkinson Hyperlegible, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">Sets</text>
-                <text y="0" x="4" dominant-baseline="hanging" text-anchor="start" style="font-family: Atkinson Hyperlegible, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">Value</text>
             </g>
-            <text x="4" y="4" style="font-family: Atkinson Hyperlegible, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;" />
+            <text x="4" y="4" style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;"/>
+        </g>
+        <g id="grid">
+            <rect x="0" y="0" width="805" height="800" fill="none" stroke="#ccc"/>
         </g>
     </g>
 </svg>
