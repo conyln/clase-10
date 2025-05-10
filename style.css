@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
 body {
-  color: Black;
-  background: Pink;
+  color: #455946;
+  background: linear-gradient(0deg,rgba(254, 141, 147, 1) 40%, rgba(181, 191, 99, 1) 60%);
     font-family: "Atkinson Hyperlegible", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -13,7 +13,7 @@ body {
 .container {
     max-width: 800px;
     margin: 0 auto;
-    background: FloralWhite;
+    background: #FFFEDF;
     padding: 50px;
 }
 
@@ -21,29 +21,41 @@ h1 {
     font-weight: 800;
     font-size: 2rem;
     margin-bottom: 1.5rem;
-    color: MediumVioletRed;
+    color: #8E5477;
+}
+h2 {
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    color: #A64444;
+}
+h3 {
+    font-weight: 550;
+    margin-bottom: 1.5rem;
+    text-align: right;
+    color: #455946;
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 1rem;
+    margin-top: 3rem;
 }
 
 th,
 td {
     padding: 1rem;
     text-align: left;
-    border-bottom: 1px solid MediumVioletRed;
+    border-bottom: 2px solid #8E5477;
 }
 
 th {
-    background-color: FloralWhite;
-    font-weight: 500;
+    background-color: #FFFEDF;
+    font-weight: 550;
 }
 
 tbody tr:nth-child(even) {
-    background-color: FloralWhite;
+    background-color: #FFFEDF;
 }
 
 td:nth-child(2) {
@@ -51,13 +63,13 @@ td:nth-child(2) {
 }
 
 p {
-    padding: 5px;
+    padding: 2px;
     color: #455946;
 }
 
 #promedio {
     font-weight: 800px;
-    color: White;
+    color: #8E5477;
 }
 
 .barra-svg {
@@ -81,6 +93,6 @@ a:visited {
 }
 
 a:hover {
-    color: #8E5477;
+    color: #FE8D93;
     transition: color ease 0.6s;
 }
