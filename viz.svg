@@ -114,55 +114,55 @@
                     <rect x="621.989140070922" y="83.28571428571435" width="54.570589539007095" height="75.71428571428567"/>
                     <rect x="683.494570035461" y="37.85714285714284" width="54.570589539007095" height="75.71428571428567"/>
                 </g>
-                <g id="xAxis" transform="translate(0,530)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
+                <g id="xAxis" transform="translate(0,530)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                     <path class="domain" stroke="currentColor" d="M0.5,0.5H745.5"/>
                     <g class="tick" opacity="1" transform="translate(34.22013519503544,0)">
                         <line stroke="currentColor" y2="6"/>
-                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">BROWNE PRIETO, SOFÍA</text>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,10) rotate(-90)">BROWNE PRIETO, SOFÍA</text>
                     </g>
                     <g class="tick" opacity="1" transform="translate(95.72556515957446,0)">
                         <line stroke="currentColor" y2="6"/>
-                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">CAMPAZZO FUENTEALBA, MAGDALENA</text>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,10) rotate(-90)">CAMPAZZO FUENTEALBA, MAGDALENA</text>
                     </g>
                     <g class="tick" opacity="1" transform="translate(157.23099512411346,0)">
                         <line stroke="currentColor" y2="6"/>
-                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">CORDERO BRUMMER, MARÍA JOSÉ</text>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,10) rotate(-90)">CORDERO BRUMMER, MARÍA JOSÉ</text>
                     </g>
                     <g class="tick" opacity="1" transform="translate(218.73642508865245,0)">
                         <line stroke="currentColor" y2="6"/>
-                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">CORTHORN PEDRASA, MAGDALENA</text>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,10) rotate(-90)">CORTHORN PEDRASA, MAGDALENA</text>
                     </g>
                     <g class="tick" opacity="1" transform="translate(280.2418550531915,0)">
                         <line stroke="currentColor" y2="6"/>
-                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)"  >CUYATE MIMBELA, BRAYAN</text>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,10) rotate(-90)"  >CUYATE MIMBELA, BRAYAN</text>
                     </g>
                     <g class="tick" opacity="1" transform="translate(341.74728501773046,0)">
                         <line stroke="currentColor" y2="6"/>
-                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">CVITANIC VERGARA, TOMISLAV</text>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,10) rotate(-90)">CVITANIC VERGARA, TOMISLAV</text>
                     </g>
                     <g class="tick" opacity="1" transform="translate(403.2527149822695,0)">
                         <line stroke="currentColor" y2="6"/>
-                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">FLORES HIDALGO, VALENTINA</text>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,10) rotate(-90)">FLORES HIDALGO, VALENTINA</text>
                     </g>
                     <g class="tick" opacity="1" transform="translate(464.7581449468085,0)">
                         <line stroke="currentColor" y2="6"/>
-                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">LAGOS NOVA, CONSTANZA</text>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,10) rotate(-90)">LAGOS NOVA, CONSTANZA</text>
                     </g>
                     <g class="tick" opacity="1" transform="translate(526.2635749113475,0)">
                         <line stroke="currentColor" y2="6"/>
-                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">NAVARRETE SANTIBÁÑEZ, SOFÍA</text>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,10) rotate(-90)">NAVARRETE SANTIBÁÑEZ, SOFÍA</text>
                     </g>
                     <g class="tick" opacity="1" transform="translate(587.7690048758866,0)">
                         <line stroke="currentColor" y2="6"/>
-                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">OLIVARES CANALES, DANIELA</text>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,10) rotate(-90)">OLIVARES CANALES, DANIELA</text>
                     </g>
                     <g class="tick" opacity="1" transform="translate(649.2744348404256,0)">
                         <line stroke="currentColor" y2="6"/>
-                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">OLIVOS LEIVA, MÓNICA</text>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,10) rotate(-90)">OLIVOS LEIVA, MÓNICA</text>
                     </g>
                     <g class="tick" opacity="1" transform="translate(710.7798648049646,0)">
                         <line stroke="currentColor" y2="6"/>
-                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,110) rotate(-90)">WURTH GONZÁLEZ, FRANCISCA</text>
+                        <text fill="currentColor" y="9" dy="0.71em" transform="translate(-13,10) rotate(-90)">WURTH GONZÁLEZ, FRANCISCA</text>
                     </g>
                 </g>
                 <g id="yAxis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
@@ -232,7 +232,6 @@
             <text x="4" y="4" style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;"/>
         </g>
         <g id="grid">
-            <rect x="0" y="0" width="805" height="800" fill="none" stroke="#ccc"/>
         </g>
     </g>
 </svg>
