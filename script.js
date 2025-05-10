@@ -31,7 +31,7 @@ function carita(n) {
 
 function barrita(n) {
     let ancho = (n / 7) * 140;
-    let color = "#000000"; // color por defecto (naranja)
+    let color = "#000000";
 
     if (n === 7) {
         color = "#00FF7F";
