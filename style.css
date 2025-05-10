@@ -62,6 +62,21 @@ td:nth-child(2) {
     font-family: "Atkinson Hyperlegible", sans-serif;
 }
 
+th button {
+  background: none;
+  border: none;
+  font-size: 1em;
+  cursor: pointer;
+  padding: 0 2px;
+  vertical-align: middle;
+  line-height: 1;
+  color: #455946;
+}
+
+th button:hover {
+  color: #70e000;
+}
+
 p {
     padding: 2px;
     color: #455946;
