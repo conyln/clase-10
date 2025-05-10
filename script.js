@@ -1,5 +1,6 @@
 const filas = document.querySelector("tbody");
 const texto = document.querySelector("#promedio");
+
 let total = 0;
 let dataGlobal = [];
 
@@ -24,8 +25,8 @@ function renderizarTabla(data) {
     filas.innerHTML += `<tr>
       <td>${d.nombre}</td>
       <td>${d.nota.toFixed(1)}</td>
-      <td>${carita(d.nota)}</td>
       <td>${barrita(d.nota)}</td>
+      <td>${carita(d.nota)}</td>
     </tr>`;
     total += d.nota;
   });
@@ -43,18 +44,22 @@ function carita(n) {
   let emoji;
   if (n === 7) {
     emoji = "😱";
-  } else if (n > 6.5) {
+  } else if (n > 6.4) {
     emoji = "😃";
   } else if (n > 5.9) {
     emoji = "😄";
-  } else if (n > 5.5) {
+  } else if (n > 5.4) {
     emoji = "🙂";
   } else if (n > 4.9) {
     emoji = "😗";
-  } else if (n > 4.0) {
+  } else if (n > 4.4) {
     emoji = "😐";
+  } else if (n > 4.0) {
+    emoji = "😕";
   } else if (n === 4.0) {
     emoji = "🤔";
+  } else {
+    emoji = "😣";
   }
   return emoji;
 }
@@ -64,21 +69,21 @@ function barrita(n) {
   let color = "#000000";
 
   if (n === 7) {
-    color = "#00FF7F";
+    color = "#6FA7D7";
   } else if (n >= 6) {
-    color = "#70e000";
+    color = "#B5BF63";
   } else if (n >= 5) {
-    color = "#ffba08";
+    color = "#ED5E36";
   } else if (n >= 4) {
-    color = "#E36414";
+    color = "#FE8D93";
   } else {
     color = "#FDF5E6";
   }
 
   return `
     <svg class="barra-svg" width="250" height="20">
-      <rect width="250" height="20" fill="#eee"/>
-      <rect width="${ancho}" height="20" fill="${color}"/>
+      <rect width="250" height="20" fill="#E7DBC5" rx="10"/>
+      <rect width="${ancho}" height="20" fill="${color}" rx="10"/>
       <text x="125" y="14" text-anchor="middle" fill="#000" font-size="12">${n.toFixed(1)}</text>
     </svg>`;
 }
