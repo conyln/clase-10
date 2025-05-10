@@ -94,5 +94,5 @@ a:visited {
 
 a:hover {
     color: #FE8D93;
-    transition: color ease 0.6s;
+    transition: color ease 0.5s;
 }
