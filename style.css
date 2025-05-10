@@ -51,9 +51,8 @@ td:nth-child(2) {
 }
 
 p {
-    background: MediumVioletRed;
     padding: 5px;
-    color: Pink;
+    color: #455946;
 }
 
 #promedio {
