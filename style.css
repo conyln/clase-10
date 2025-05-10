@@ -74,6 +74,12 @@ a {
   color: #663B5B;
 }
 
+a:visited {
+  color: #391E2D;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 a:hover {
     color: #8E5477;
     transition: color ease 0.6s;
