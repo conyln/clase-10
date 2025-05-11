@@ -345,7 +345,6 @@
                 style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;" />
         </g>
         <g id="grid">
-            <rect x="0" y="0" width="800" height="800" fill="none" stroke="#ccc" />
         </g>
     </g>
 </svg>
