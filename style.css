@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
 body {
-  color: #455946;
-  background: linear-gradient(0deg,rgba(254, 141, 147, 1) 40%, rgba(181, 191, 99, 1) 60%);
+    color: #455946;
+    background: linear-gradient(0deg, rgba(254, 141, 147, 1) 40%, rgba(181, 191, 99, 1) 60%);
     font-family: "Atkinson Hyperlegible", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -23,11 +23,13 @@ h1 {
     margin-bottom: 1.5rem;
     color: #8E5477;
 }
+
 h2 {
     font-weight: 600;
     margin-bottom: 1.5rem;
     color: #A64444;
 }
+
 h3 {
     font-weight: 550;
     margin-bottom: 1.5rem;
@@ -63,18 +65,18 @@ td:nth-child(2) {
 }
 
 th button {
-  background: none;
-  border: none;
-  font-size: 1em;
-  cursor: pointer;
-  padding: 0 2px;
-  vertical-align: middle;
-  line-height: 1;
-  color: #455946;
+    background: none;
+    border: none;
+    font-size: 1em;
+    cursor: pointer;
+    padding: 0 2px;
+    vertical-align: middle;
+    line-height: 1;
+    color: #455946;
 }
 
 th button:hover {
-  color: #70e000;
+    color: #70e000;
 }
 
 p {
@@ -94,17 +96,17 @@ p {
 }
 
 svg {
-    display: block;
+    display: flex;
 }
 
 a {
-  color: #663B5B;
+    color: #663B5B;
 }
 
 a:visited {
-  color: #391E2D;
-  background-color: transparent;
-  text-decoration: none;
+    color: #391E2D;
+    background-color: transparent;
+    text-decoration: none;
 }
 
 a:hover {
